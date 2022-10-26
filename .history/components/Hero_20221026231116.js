@@ -11,7 +11,7 @@ export default function Hero() {
             </div>
 
             <nav className="hidden lg:flex gap-12">
-              <a href="#" className="text-orange-500 text-lg font-semibold">
+              <a href="#" className="text-indigo-500 text-lg font-semibold">
                 New
               </a>
               <a
