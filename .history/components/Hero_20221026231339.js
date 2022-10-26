@@ -79,7 +79,7 @@ export default function Hero() {
               <h1 className="text-black text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">
                 Enrich your beauty
               </h1>
-              <p className="text-black text-lg sm:text-xl text-center mb-4 md:mb-8">
+              <p className="text-indigo-800 text-lg sm:text-xl text-center mb-4 md:mb-8">
                 Highest quality ingredients,formulated to provide your skin with
                 the purest powers of nature
               </p>
