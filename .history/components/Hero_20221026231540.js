@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="bg-white pb-6 sm:pb-8 lg:pb-12">
         <div className="max-w-screen-2xl px-4 md:px-8 mx-auto">
           <header className="flex justify-between items-center py-4 md:py-8 mb-4">
-            <div className="inline-flex  hover:text-green-500 cursor-pointer items-center text-black-800 text-2xl md:text-3xl font-bold gap-2.5">
+            <div className="inline-flex  hover:text-green-500 items-center text-black-800 text-2xl md:text-3xl font-bold gap-2.5">
               Greenish Glare
             </div>
 
@@ -54,7 +54,7 @@ export default function Hero() {
 
             <a
               href="#"
-              className="hidden lg:inline-block bg-green-500 hover:bg-green-600 focus-visible:ring ring-indigo-300 text-white active:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3"
+              className="hidden lg:inline-block bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3"
             >
               MENU
             </a>

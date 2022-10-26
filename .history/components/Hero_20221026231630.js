@@ -54,7 +54,7 @@ export default function Hero() {
 
             <a
               href="#"
-              className="hidden lg:inline-block bg-green-500 hover:bg-green-600 focus-visible:ring ring-indigo-300 text-white active:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3"
+              className="hidden lg:inline-block bg-green-500 hover:bg-green-600 focus-visible:ring ring-indigo-300 text- activewhite:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3"
             >
               MENU
             </a>
